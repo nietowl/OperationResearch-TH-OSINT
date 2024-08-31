@@ -1,0 +1,6 @@
+- name: Tool Name
+  url: http://example.com
+  category: Tool
+  type: Free
+  github: http://github.com/tool
+  date_added: 2024-08-31
