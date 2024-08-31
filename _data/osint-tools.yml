@@ -4,24 +4,3 @@
   type: Free
   github: http://github.com/tool1
   date_added: 2024-08-31
-
-- name: Tool Two
-  url: http://example2.com
-  category: Website
-  type: Paid
-  github: http://github.com/tool2
-  date_added: 2024-07-15
-
-- name: Tool Three
-  url: http://example3.com
-  category: Tool
-  type: Free
-  github: http://github.com/tool3
-  date_added: 2024-06-01
-
-- name: Tool Four
-  url: http://example4.com
-  category: Website
-  type: Paid
-  github: http://github.com/tool4
-  date_added: 2024-05-20
