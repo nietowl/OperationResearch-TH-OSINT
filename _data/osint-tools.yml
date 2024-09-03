@@ -1,7 +1,79 @@
-- name: Tool One
-  url: http://example1.com
-  category: Tool
+- name: Yandex
+  url: https://yandex.com/ , https://yandex.ru , https://yandex.eu
+  category: Search Engine
   type: Free
-  github: http://github.com/tool1
-  date_added: 2024-08-31
+  GitHub:
+  country: Russsia
+  date_added: 2024-09-03
 
+- name: Baidu
+  url: 
+  category:
+  type:
+  github:
+  country: china
+  date_added:
+  
+- name : qwant
+  url:
+  category:
+  type:
+  github:
+  country: europe
+  date_added:  
+  
+- name : naver whale 
+  url:
+  category:
+  type:
+  github:
+  country: south korea
+  date_added:
+
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:
+  
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:  
+  
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:
+
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:
+  
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:  
+  
+- name :
+  url:
+  category:
+  type:
+  github:
+  country:
+  date_added:  
