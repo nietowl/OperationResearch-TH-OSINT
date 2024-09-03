@@ -8,7 +8,7 @@
 
 - name: Baidu
   url: 
-  category:
+  category: Search Engine
   type:
   github:
   country: china
@@ -16,7 +16,7 @@
   
 - name : qwant
   url:
-  category:
+  category: Search Engine
   type:
   github:
   country: europe
@@ -24,15 +24,15 @@
   
 - name : naver whale 
   url:
-  category:
+  category: Search Engine
   type:
   github:
   country: south korea
   date_added:
 
-- name :
-  url:
-  category:
+- name : dorksearch
+  url: https://dorksearch.com/
+  category: Search Engine
   type:
   github:
   country:
