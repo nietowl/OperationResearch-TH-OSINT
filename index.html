@@ -11,7 +11,7 @@ layout: default
             <th>Category</th>
             <th>Type</th>
             <th>GitHub</th>
-            <th>COUNTRY</th>
+            <th>Country</th>
             <th>Date Added</th>
             <th>Comment</th>
         </tr>
@@ -25,7 +25,9 @@ layout: default
             <td>{{ tool.category }}</td>
             <td>{{ tool.type }}</td>
             <td><a href="{{ tool.github }}" target="_blank">{{ tool.github }}</a></td>
+            <td>{{ tool.country }}</td>
             <td>{{ tool.date_added }}</td>
+            <td>{{ tool.comment }}</td>
         </tr>
         {% endfor %}
     </tbody>
