@@ -1,9 +1,12 @@
 - name: Yandex
-  url: https://yandex.com/ , https://yandex.ru , https://yandex.eu
+  url:
+    - https://yandex.com/
+    - https://yandex.ru
+    - https://yandex.eu
   category: Search Engine
   type: Free
-  GitHub:
-  country: Russsia
+  github:
+  country: Russia
   date_added: 2024-09-03
 
 - name: Baidu
@@ -11,26 +14,26 @@
   category: Search Engine
   type:
   github:
-  country: china
-  date_added:
-  
-- name : qwant
-  url:
-  category: Search Engine
-  type:
-  github:
-  country: europe
-  date_added:  
-  
-- name : naver whale 
-  url:
-  category: Search Engine
-  type:
-  github:
-  country: south korea
+  country: China
   date_added:
 
-- name : dorksearch
+- name: Qwant
+  url:
+  category: Search Engine
+  type:
+  github:
+  country: Europe
+  date_added:  
+  
+- name: Naver Whale 
+  url:
+  category: Search Engine
+  type:
+  github:
+  country: South Korea
+  date_added:
+
+- name: DorkSearch
   url: https://dorksearch.com/
   category: Search Engine
   type:
@@ -38,7 +41,7 @@
   country:
   date_added:
   
-- name :
+- name:
   url:
   category:
   type:
@@ -46,7 +49,7 @@
   country:
   date_added:  
   
-- name :
+- name:
   url:
   category:
   type:
@@ -54,7 +57,7 @@
   country:
   date_added:
 
-- name :
+- name:
   url:
   category:
   type:
@@ -62,7 +65,7 @@
   country:
   date_added:
   
-- name :
+- name:
   url:
   category:
   type:
@@ -70,10 +73,10 @@
   country:
   date_added:  
   
-- name :
+- name:
   url:
   category:
   type:
   github:
   country:
-  date_added:  
+  date_added:
