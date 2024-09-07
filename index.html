@@ -8,64 +8,92 @@ layout: default
 <p>Find me on GitHub: <a href="https://github.com/nietowl" target="_blank">https://github.com/nietowl</a></p>
 
 <!-- OSINT Tools Table -->
-<table>
-    <thead>
-        <tr>
-            <th>Count</th>
-            <th>Name</th>
-            <th>URL</th>
-            <th>Category</th>
-            <th>Type</th>
-            <th>GitHub</th>
-            <th>Country</th>
-            <th>Date Added</th>
-            <th>Comment</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for tool in site.data.osint-tools %}
-        <tr>
-            <td>{{ forloop.index }}</td>
-            <td>{{ tool.name }}</td>
-            <td><a href="{{ tool.url }}" target="_blank">{{ tool.url }}</a></td>
-            <td>{{ tool.category }}</td>
-            <td>{{ tool.type }}</td>
-            <td><a href="{{ tool.github }}" target="_blank">{{ tool.github }}</a></td>
-            <td>{{ tool.country }}</td>
-            <td>{{ tool.date_added }}</td>
-            <td>{{ tool.comment }}</td>
-        </tr>
-        {% endfor %}
-    </tbody>
-</table>
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Count</th>
+                <th>Name</th>
+                <th>URL</th>
+                <th>Category</th>
+                <th>Type</th>
+                <th>GitHub</th>
+                <th>Country</th>
+                <th>Date Added</th>
+                <th>Comment</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for tool in site.data.osint-tools %}
+            <tr>
+                <td>{{ forloop.index }}</td>
+                <td>{{ tool.name }}</td>
+                <td><a href="{{ tool.url }}" target="_blank">{{ tool.url }}</a></td>
+                <td>{{ tool.category }}</td>
+                <td>{{ tool.type }}</td>
+                <td><a href="{{ tool.github }}" target="_blank">{{ tool.github }}</a></td>
+                <td>{{ tool.country }}</td>
+                <td>{{ tool.date_added }}</td>
+                <td>{{ tool.comment }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
 
-<!-- Styling to avoid horizontal scroll -->
+<!-- Updated Styling for Full Width Table -->
 <style>
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .table-container {
+        width: 100%;
+        overflow-x: auto;
+    }
+
     table {
         width: 100%;
         border-collapse: collapse;
-        table-layout: fixed;
+        table-layout: fixed; /* Ensures the table takes the full width */
         word-wrap: break-word;
     }
+
     th, td {
         border: 1px solid #ddd;
-        padding: 8px;
+        padding: 12px;
         text-align: left;
     }
+
     th {
         background-color: #f2f2f2;
     }
+
     tr:nth-child(even) {
         background-color: #f9f9f9;
     }
+
     tr:hover {
         background-color: #f1f1f1;
     }
+
     td a {
         color: #0366d6;
         text-decoration: none;
     }
+
     td a:hover {
         text-decoration: underline;
+    }
+
+    h1 {
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    p {
+        text-align: center;
     }
 </style>
