@@ -41,46 +41,48 @@ layout: default
     </table>
 </div>
 
-<!-- Updated Styling for Full Width Table -->
+<!-- Styling to Utilize Full Page and Avoid Horizontal Scrolling -->
 <style>
     body {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+        width: 100vw; /* Ensure body takes full viewport width */
+        overflow-x: hidden; /* Prevent horizontal scroll */
     }
     
     .table-container {
-        width: 100%;
-        overflow-x: auto;
+        width: 100%; /* Ensure container takes full width */
+        margin: 0 auto; /* Center the container */
     }
 
     table {
-        width: 100%;
-        border-collapse: collapse;
-        table-layout: fixed; /* Ensures the table takes the full width */
-        word-wrap: break-word;
+        width: 100%; /* Full width for the table */
+        border-collapse: collapse; /* Remove space between cells */
+        table-layout: auto; /* Allow flexible column widths */
+        word-wrap: break-word; /* Wrap content in the cells */
     }
 
     th, td {
-        border: 1px solid #ddd;
-        padding: 12px;
-        text-align: left;
+        border: 1px solid #ddd; /* Add borders to table cells */
+        padding: 12px; /* Add space inside the cells */
+        text-align: left; /* Left-align text */
     }
 
     th {
-        background-color: #f2f2f2;
+        background-color: #f2f2f2; /* Light background for headers */
     }
 
     tr:nth-child(even) {
-        background-color: #f9f9f9;
+        background-color: #f9f9f9; /* Alternate row colors */
     }
 
     tr:hover {
-        background-color: #f1f1f1;
+        background-color: #f1f1f1; /* Highlight row on hover */
     }
 
     td a {
-        color: #0366d6;
+        color: #0366d6; /* Link color */
         text-decoration: none;
     }
 
@@ -89,11 +91,18 @@ layout: default
     }
 
     h1 {
-        text-align: center;
+        text-align: center; /* Center the title */
         margin: 20px 0;
     }
 
     p {
-        text-align: center;
+        text-align: center; /* Center the GitHub link */
+    }
+
+    /* Adjust for smaller screens */
+    @media (max-width: 768px) {
+        table {
+            font-size: 14px; /* Smaller font for smaller screens */
+        }
     }
 </style>
