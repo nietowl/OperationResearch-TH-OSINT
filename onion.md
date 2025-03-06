@@ -1,0 +1,271 @@
+Category	Name	URL	Status
+Markets	Abacus	abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion	ONLINE
+Markets	Abacus	abacusall6l52n5gp357vpv4yjjvh6ewg65pjbfvacyqcldux66btlqd.onion	ONLINE
+Markets	Abacus	abacuskzoo7wrfmpqiqscoiljfjap42rzjkfygp5vm3gtlu5tanhbjad.onion	ONLINE
+Markets	Abacus	r6qie7isrsk656ozslief4niekojtano5igqpptwc4zb2xmqseadhrid.onion	OFFLINE
+Markets	Abacus	mtxs2xfu3n6uz5kbochkhk3u6fdts7nijd3a5r5gcdc7ztbujn66h3id.onion	OFFLINE
+Markets	Atlas	atlasgooo2pie5vyvwbt35zvfsiiy3va7tirvbe5ocvjugq7lggxlmyd.onion	OFFLINE
+Markets	Archetyp	4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion	ONLINE
+Markets	Archetyp	zjfsopfrwpvqrhiy73vxb6zq7ksyffkzfyow2gmhgvjsseogy65uguyd.onion	ONLINE
+Markets	Archetyp	s4wq4oz66bbyvsv2rg3ixwuwzvoxv226bg3563ptchx7xknelhfu3rqd.onion	ONLINE
+Markets	Archetyp	uyeygtqorgwxmp4bskauanuiofeh7frv35nvmghni5aihf32z27ogqqd.onion	ONLINE
+Markets	Archetyp	a7mupnlw776xwbt3zcaqrvrje2x44mpmwqszc5zzdseyldpq7ftyzsqd.onion	ONLINE
+Markets	Archetyp	pmrhqakmmgue4vvdfqds27vyiuhz2qj65sql4zqoeobxlx6onwte64qd.onion	ONLINE
+Markets	Archetyp	fccayuqwcub4ikf6rjafaxld5dwu7relbox64gx45ivwzcbr6w4yn6ad.onion	ONLINE
+Markets	BlackOps Market	blackops3zlgfuq4dg4yrtxoe57u3sxfa34kqzbooqbovutleqhf3zqd.onion	ONLINE
+Markets	BlackOps Market	blackops4zfjqugajzrwokor34sv4sm5sf6pnegaevhgd7k7yt3rkbid.onion	ONLINE
+Markets	BlackOps Market	blackops527cggb6ybayggx3bjt24xz32rotdugs6ikejxdiik6dyiid.onion	ONLINE
+Markets	BlackOps Market	blackops66p7edjocooiipudvefdhupk27pi4y72iwnbbjvccky646yd.onion	ONLINE
+Markets	CannaExpress	cannaex7sxdz3fy3bhyoaagwr5hhb64oabqllb7fpqvl3qwafmxxdhqd.onion	ONLINE
+Markets	CannaExpress	cannaexsunpnqjwy4i4bafbqgfsnn7lwnsf6azqgcaoog5d2i3qw2uyd.onion	ONLINE
+Markets	Catharsis	catharibrmbuat2is36fef24gqf3rzcmkdy6llybjyxzrqthzx7o3oyd.onion	OFFLINE
+Markets	City Market	wsptlnuoo3johqzcdlwuj5zcwfh2dwmswz6hahqctuxttvxpanypmwad.onion	ONLINE
+Markets	Cocorico	xv3dbyx4iv35g7z2uoz2yznroy56oe32t7eppw2l2xvuel7km2xemrad.onion	ONLINE
+Markets	Colombia Connection	eg5pj3r4xhybxgfkjnkhbhwgkuonp5wtla3mbpuzphzk6lxkhftnvuyd.onion	ONLINE
+Markets	Colombia Connection	k66zw4ygbdjzj3zm67ghqlnn6wlxiqmj7i2rfwv4hj2j6q3o4zf66kid.onion	ONLINE
+Markets	Colombia Connection	sphccguqtygygvm2z3gtijonbsnakhnv2eoi7gsxt2qu2cwpbjwd2mad.onion	OFFLINE
+Markets	Dark Matter	darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion	ONLINE
+Markets	Dark Matter	darkmmk3owyft4zzg3j3t25ri4z5bw7klapq6q3l762kxra72sli4mid.onion	ONLINE
+Markets	Dark Matter	darkmmro6j5xekpe7jje74maidkkkkw265nngjqxrv4ik7v3aiwdbtad.onion	ONLINE
+Markets	Dream Market V2	dreamv2jji6uyejnk367mbrazxvlunhy74hixknqxybxznhx7kjewzid.onion	OFFLINE
+Markets	DrugHub	drughub666py6fgnml5kmxa7fva5noppkf6wkai4fwwvzwt4rz645aqd.onion	ONLINE
+Markets	Elysium Market	elysiumyeudtha62s4oaowwm7ifmnunz3khs4sllhvinphfm4nirfcqd.onion	OFFLINE
+Markets	Elysium Market	elysiumutkwscnmdohj23gkcyp3ebrf4iio3sngc5tvcgyfp4nqqmwad.onion	ONLINE
+Markets	Elysium Market	elysiumpir7gp5j7pl3kye36xnj5zig4fe5ng67ji7s5kahj3jiitfqd.onion	ONLINE
+Markets	Elysium Market	elysiumol473mecbwwjadi5ydlzd4x5fvwsanepazljq3frh57li3pqd.onion	ONLINE
+Markets	Euphoria	euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion	ONLINE
+Markets	Euphoria	euphorialth2wxqjd2y3mmenyquhs7yj26hvtpbf7zhyfmed7752srid.onion	ONLINE
+Markets	Kerberos	kerberosemtkeqh7pznmv3negqhudxk5po3awdazx5fqgizttr6xeiid.onion	ONLINE
+Markets	Kerberos	kerberosfwjuirbckcfspamq3wv3nfk6blusvabbtnsatiezm2uyfzid.onion	ONLINE
+Markets	Kerberos	kerberosgzhuw5oagmbzjecz5m3c2bmpg3mns6ty7ofwwk67kviswkad.onion	ONLINE
+Markets	Kerberos	kerberoshz5i6au475yf63msi2llgxxf4obr4hvjq7hdmphec4t2j7ad.onion	ONLINE
+Markets	Kerberos	kerberosazmnfrjinmftp3im3cr7hw4nxbavm4ngofn64g24be7h3kqd.onion	ONLINE
+Markets	Kerberos	kerberosbkts3ulupqzjoxxo6xkwp4tllf36v5a3kbeemkwfw263y3ad.onion	ONLINE
+Markets	Kerberos	kerberoscwus5qit6l32wmg3hz6j3zverf33moas3wjcgaatchililqd.onion	ONLINE
+Markets	Kerberos	kerberosdkgfsepwkotclwpuc4iviucasicwgssv6zgcw3d5xa3tdwad.onion	ONLINE
+Markets	Lion	lionznqc2hg2wsp5vgruqait4cpknihwlje6hkjyi52lcl5ivyf7bcad.onion	ONLINE
+Markets	MGM Grand	ngemgrlhmdqi3zsgscjgjrbwpietxf3kbwjfzrarb4h6f3nimjsiu7yd.onion	ONLINE
+Markets	MGM Grand	ljr4rlkarfsrdxwilfitqhwqllihn6ooy6qfcuiuvtgrujexgxgwb2ad.onion	ONLINE
+Markets	MGM Grand	wghtttq3gkw2leaio5umqa2lqbjm4qcdhr4v5jj3ftirohx3hfp62eyd.onion	OFFLINE
+Markets	MGM Grand	ivam3anqpa6gopk6552c7nycvjlydzoay5eog2tythvuzm7c75xxeaad.onion	ONLINE
+Markets	NextGeneration	nextgenuxioipgxqs5ibsg6aofnwjflentjn4pmqp25h3guc6dwnanyd.onion	OFFLINE
+Markets	Nexus	nexusabcdkq4pdlubs6wk6ad7pobuupzoomoxi6p7l32ci4vjtb2z7yd.onion	ONLINE
+Markets	Nexus	nexusb2l7hog66bnzz5msrz4m5qxj7jbi7aah3r65uzydy5mew2fu3id.onion	ONLINE
+Markets	Pegasus	pegasusnpdrch2isegmo5pepybhnfzzfgmsyva2l2smrzkghyxnc3iqd.onion	ONLINE
+Markets	Pegasus	pegasusificbht3c34owavlshrgt363n5qjknr5rzvdlwf2ssvmscxid.onion	ONLINE
+Markets	Pegasus	pegasusp3l6et62fk563cz4x2sxcz6kpixmtiz56j4wzj54u3tz56lyd.onion	ONLINE
+Markets	Quantum	quant6e55gvtl2baqh3rnocxmcujritxjt4yi67q4svkus6ja4dbu6qd.onion	OFFLINE
+Markets	Quantum	quant52e4qxftvllv25pibrcwc2finxsx6ofzhs56ywzc7rtcrfe64id.onion	OFFLINE
+Markets	Quantum	quant3m7l2qhdjuul7ueg37sh72awr6yvpvev5fdqtbhbc24omdwwxqd.onion	OFFLINE
+Markets	TorZon	trzm.cc	OFFLINE
+Markets	TorZon	torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.onion	ONLINE
+Markets	TorZon	q46wfsee26kj6oead5hg643oi363lgqiz3m45b2dwrizefryu2zdfrqd.onion	ONLINE
+Markets	TorZon	sglgj2fytneccvyn6n4u3pacj4zhdhscfoptnhxxes3uvljmontru2yd.onion	ONLINE
+Markets	TorZon	245mkrsljsgp3fdxp2hjw3pifplluznozd2lcqiojkc3n7zxdbc455id.onion	ONLINE
+Markets	TorZon	wk6dwjxq5yfjnt2i7zz7vcrppb6hzrmxlq6sxxwhisco2e44wpkcvdad.onion	ONLINE
+Markets	TorZon	tjtmpqpfng6upzv34cpw5cglycwzdpnae3xau56wprp2wp5sw32benyd.onion	ONLINE
+Markets	TorZon	ujgkk42xmmip6h567srdlleefgb7hemc424cwzylrvxzgvsyoou6atid.onion	OFFLINE
+Markets	TorZon	3c7caoyxqz3hd4pepb5owa6ac7qyrcceeu2wg73n3jrcpar664nyd3qd.onion	OFFLINE
+Markets	TorZon	5fcewlhdjn2gs4op4on6k2nea6nqmtn65wdohyodfahcvcumciv3soad.onion	OFFLINE
+Markets	TorZon	7hlducio2a57if4vk5yt7g63cbs42dffztcmkyjjrb7bmdy5iuuyi7qd.onion	OFFLINE
+Markets	TorZon	6v4gemuzsix2p5q3feuz4bwvrbi75ycw665diwcltymkfhwmnxhkz6id.onion	ONLINE
+Markets	We The North	hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion	ONLINE
+Markets	Vortex	bar47oupp7kn2idtplbngebrtlhurfp5p4irvwngdkj2ynkc46jqihad.onion	OFFLINE
+Markets	Vortex	mq7ozbnrqdjc6cof3yakegs44kmo6vl3ajcyzdeya3zjtmi65jtmwqid.onion	OFFLINE
+Markets	Vortex	uz5teca64yvzfax2o5eey3v6pkyo6kusajtgkalys7r74ij7pilqj4id.onion	OFFLINE
+Search	Brave Search	search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/	ONLINE
+Search	Dig	digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/	OFFLINE
+Search	DarkNet Trust	dntrustmuq5ccf3lygrnhsprpdliakq7r2ljsspczmdsslj5wl4teeid.onion/	OFFLINE
+Search	Shoot	shootnnngg4akh7fkjmx5b5omsppt2zaefohzwnwryhy2c6mm3kbx6qd.onion/	ONLINE
+Search	VormWeb	volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/	ONLINE
+Search	DuckDuckGo	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html/	OFFLINE
+Search	StartPage	http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion/	OFFLINE
+Search	Grams	grams64rarzrk7rzdaz2fpb7lehcyi7zrrf5kd6w2uoamp7jw2aq6vyd.onion	ONLINE
+Search	Haystack	haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion	ONLINE
+Search	MetaGer	haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion	ONLINE
+Search	Torch	torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion	ONLINE
+Search	ExcavaTOR	2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion	ONLINE
+Search	The Deep Searches	searchgf7gdtauh7bhnbyed4ivxqmuoat3nm6zfrg3ymkq6mtnpye3ad.onion	ONLINE
+Search	Tor66	tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion	ONLINE
+Search	Torgle	iy3544gmoeclh5de6gez2256v6pjh4omhpqdh2wpeeppjtvqmjhkfwad.onion/torgle	ONLINE
+Search	I2P Search	i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion	ONLINE
+Search	Ahmia	juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion	ONLINE
+Forums	Pitch	pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion/	OFFLINE
+Forums	Pitch	pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion	ONLINE
+Forums	CryptBB	cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion	ONLINE
+Forums	Dread	dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion	ONLINE
+Forums	Dread	g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion	OFFLINE
+Forums	Ramble	rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/	ONLINE
+Forums	Query	ruc4i7xn5qu5uc7fu2sc34r6xl55xhgvxbcs56t4ayvbqo2fmp4pehqd.onion/	ONLINE
+Forums	Germania	germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion	ONLINE
+Forums	Cebulka	cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion	ONLINE
+Forums	SuprBay	suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion	ONLINE
+Forums	Endchan	enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/	OFFLINE
+Forums	Out3rSpace	reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/	ONLINE
+Forums	s-config	xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/	ONLINE
+Forums	Breachforums	breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion	ONLINE
+Forums	XSS	https://xss.is	ONLINE
+Forums	XSS	xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion	ONLINE
+Forums	RAMP	https://Ramp4u.io	ONLINE
+Forums	RAMP	rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion	ONLINE
+Forums	Exploitin	https://exploit.in	ONLINE
+Forums	Exploitin	exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion	ONLINE
+Forums	Darkforum	https://darkforums.st	ONLINE
+Forums	Sinisterly	https://sinister.ly	ONLINE
+Forums	Niflheim	https://niflheim.top	ONLINE
+Forums	Nulled	https://www.nulled.to	OFFLINE
+Forums	Leakbase	https://leakbase.cc	ONLINE
+Forums	Zelenka/Lolzteam	https://lzt.market	ONLINE
+Forums	RuTOR	https://rutor.org	ONLINE
+Forums	Alphv Forum	https://alphv.ru	ONLINE
+Forums	NextGenForums	https://Nextgenforums.cc	ONLINE
+Forums	Evil-Zone	https://Evil-zone.org	ONLINE
+Forums	Darkzone	https://Darkzone.uk	ONLINE
+Forums	Leech Forum	https://Leech.is	ONLINE
+Forums	Leakbase	https://Leakbase.io	ONLINE
+Forums	Cookie	https://coockie.pro	ONLINE
+Forums	Darkclub	https://darkclub.cc	ONLINE
+Forums	Aletene	https://altenens.is	ONLINE
+Forums	B1nd	https://B1nd.net	ONLINE
+Forums	Dublikat	https://go.dublikat.club	ONLINE
+Forums	DemonForum	https://www.demonforums.net	ONLINE
+Forums	Turk Hack Team	https://turkhackteam.org	ONLINE
+Forums	Leakzone	https://leakzone.com	ONLINE
+Forums	Hackonology	https://hackonology.com/	ONLINE
+Forums	Hackforums	https://hackforums.net/	ONLINE
+Forums	Noirth	https://noirth.com	ONLINE
+Forums	LeadLab	https://leadlab.top/index.php	ONLINE
+Forums	Raidforums	https://Raidforum.co	ONLINE
+Forums	0x00sec	https://0x00sec.org	ONLINE
+Forums	1877x	https://1877.team/forums	ONLINE
+Forums	Blackhatworld	https://www.blackhatworld.com	ONLINE
+Forums	Hellforum	hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion	ONLINE
+Forums	365exe	https://www.365exe.com	ONLINE
+Forums	Crackingone	https://crackings.one	ONLINE
+Forums	Cracking	https://cracking.org	ONLINE
+Forums	Procrd	https://procrd.org	ONLINE
+Forums	Shellsec forum	https://www.shellsec.pw/index.php	ONLINE
+Forums	BHC forums	https://bhcforums.cc	ONLINE
+Forums	Darknet	https://darknet.ug	ONLINE
+Forums	DarkPID	https://darkpid.com	ONLINE
+Forums	Instant Hack	https://instant-hack.to	ONLINE
+Forums	Hard TM	https://hard-tm.su	ONLINE
+Forums	Romanian /team	https://rstforums.com/forum/	ONLINE
+Forums	Leaked Dev	https://leaked.dev	ONLINE
+Forums	Getrekt	https://getrekt.me	ONLINE
+Forums	Vp spiders	https://vbspiders.com/vb/	ONLINE
+Forums	Veryleaks	https://veryleaks.cz	ONLINE
+Forums	Patched	https://patched.to	ONLINE
+Forums	Level23	https://level23hacktools.com/hackers	ONLINE
+Forums	IN4	https://in4.bz	ONLINE
+Forums	DangeryThings	https://forum.dangerousthings.com	ONLINE
+Forums	SOOM	https://www.soom.cz/hack-forum	ONLINE
+Forums	STYX	https://styxmarket.com/accounts/login	ONLINE
+Forums	Xleet	https://xleet.pw	ONLINE
+Forums	Shadow forum	w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion	ONLINE
+Forums	Spyhacker	https://spyhackerz.org	ONLINE
+Forums	Craxpro	https://craxpro.to	ONLINE
+Forums	ForumsTeam	https://forumteam.group/	ONLINE
+Forums	Skynet Zone	https://skynetzone.org/	ONLINE
+Forums	Gerki	https://gerki.io/	ONLINE
+Forums	Lozerix	https://lozerix.com/	ONLINE
+Forums	RcClub	rcclubcom7eocdlycjjoh2x22edsomny46goacgkeylntp546bekxyad.onion	ONLINE
+Forums	Dark Market	https://darkmarket.cx/	ONLINE
+Forums	ProLogic	https://prologic.su/	ONLINE
+Forums	Happy Hack	https://happy--hack-net/	ONLINE
+Forums	Nohide	https://nohide.space/	ONLINE
+Forums	HPC	https://s3.hpc.name/index.html/	ONLINE
+Forums	Dark Time	https://dark-time.com/	ONLINE
+Forums	DeepWeb	https://deepweb.club/	ONLINE
+Forums	DarkClub	https://darkclub.cc/	ONLINE
+Forums	Center Club	https://center-club.io/	ONLINE
+Forums	Dark2Web	https://gate-2.d2w.site/	ONLINE
+Forums	YouHack	https://youhack.co/	ONLINE
+Forums	Boo forum	https://boo.wf/	ONLINE
+Forums	WildNight Leak Group	wildiwm3qehwf3crup56nas2lekyearoncoebldodjoqcs57dit5jkyd.onion	ONLINE
+Forums	Darknet Army	darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion	ONLINE
+Forums	Stressed Forums	https://stressedforums.pw/	ONLINE
+Forums	Crimestate	https://crimestate.cc/	ONLINE
+Forums	Darkweb Mafias	https://darkwebmafias.com/	ONLINE
+Forums	DarkPro	https://darkpro.net/	ONLINE
+Forums	Darkweb Syndicate	krv4on3wxykre5zqvdoct6nvzsuf3amvucknf53vh5gaz7ebioyeo6id.onion	OFFLINE
+Forums	Redface	https://redface.site/	ONLINE
+Forums	Redface	w5tnhtn5wm7o3nbs2d33myouokylxbropp4y3kqwtrulax2tvw4nxdid.onion	ONLINE
+Forums	Leakforum	https://leakforum.pw/register/	ONLINE
+Forums	ReBreached forum	https://rebreached.vc/	ONLINE
+Forums	ReBreached forum	rebreachkpk2puirm3gwje7hatarklyyvddmose74vycsjvfitnousyd.onion	ONLINE
+Forums	Ajanlar forum	https://ajanlar.org/	ONLINE
+Forums	Blackforums part3	https://blackforums.ru/	ONLINE
+Forums	Runion	https://runion.su/	ONLINE
+Forums	Dataforums	https://dataforums.su/	ONLINE
+Forums	Hacktools Vault	https://www.malvult.net	ONLINE
+Forums	Onniforums	https://onniforums.com/	ONLINE
+Forums	CryptBB forums	cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion	ONLINE
+Forums	BHF Pro	https://bhf.pro/	ONLINE
+Forums	Hell of Hackers	hellhoh5o35sylxrpfu45p5r74n2lzvirnvszmziuvn7bcejlynaqxyd.onion	ONLINE
+Forums	Hell of Hackers	https://hellofhackers.com/	ONLINE
+Forums	RuTor Dark	https://rutordark.net/	ONLINE
+Forums	Mazafaka	mazaforum.cc/	ONLINE
+Forums	Mazafaka	mazaclub.pro/	ONLINE
+Forums	Mazafaka	mfclubxckm7qv3bjee6dquzb4b3wbv3tnxhsuvjm2brx53vgacgp5ryd.onion	ONLINE
+Forums	Exe is	https://exe.is/	ONLINE
+Forums	Pyrex Guru	https://pyrex.guru/	ONLINE
+Forums	Mehack	https://mehack.su/	ONLINE
+Forums	Darkwebmarket	https://darkwebmarket.cc/	ONLINE
+Forums	Crackingx	https://crackingx.com/	ONLINE
+Forums	Validmarket	https://validmarket.io/	ONLINE
+Forums	Blackhatrussia	blackhatrussia.com/	ONLINE
+Forums	CyberBreach	https://cyberbreach.io/	ONLINE
+Forums	Omnia	https://omnia.st/	ONLINE
+Forums	Dangerzone	https://dangerzone.cx/	ONLINE
+Forums	Rutor Forum	https://rutorforum.at/	ONLINE
+Forums	Navik	https://navik.link/	ONLINE
+Forums	Card HQ network	https://rpc-ether.network/	ONLINE
+Forums	Card HQ network	https://cardhq.pro/	ONLINE
+Forums	Xakerplus	https://x.xakerplus.com/	ONLINE
+Forums	Alligator forum	https://alligator.money/	ONLINE
+Forums	BigFAT	https://bigfat.chat/	ONLINE
+Forums	Funkforum	funk4ph7igelwpgadmus4n4moyhh22cib723hllneen7g2qkklml4sqd.onion	ONLINE
+Forums	PSHACK	https://pshack.org/	ONLINE
+Forums	Purge Forum	Purge.to	OFFLINE
+Forums	Purge Forum	purget63s2buffp2zmjwvztixj3e4fygnkxoydgcl24bzxpcyd2cmpid.onion	OFFLINE
+Forums	Endway	https://endway.org/	ONLINE
+Forums	Voided	https://voided.to/	ONLINE
+Forums	Leakforum	https://leakforum.cc/	ONLINE
+Forums	Xreactor	https://xreactor.org/	ONLINE
+News	Darknet Radio: CaptainBlackbeard	redcircle.com/shows/CaptainBlackbeard	ONLINE
+News	Insurgeon's Blog	z7735okcy6gggduobp6vjfcgwz4ss5eeduww7iw2agjmfgpjlnquezqd.onion/	ONLINE
+News	The Tor Times	tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/	OFFLINE
+News	Dutch National Police	tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion/	ONLINE
+News	ProPublica	p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/	OFFLINE
+News	NY Times	www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/	OFFLINE
+Security	The Nihilism OpSec Blog	blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html	ONLINE
+Security	The OpSec Manual	jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/	ONLINE
+Security	No Trace Project	i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/	ONLINE
+Security	Anonymity Papers	7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/anonbib/index.html	ONLINE
+Security	The Tor Project	pzhdfe7jraknpj2qgu5cz2u3i4deuyfwmonvzu5i3nyw4t4bmg7o5pad.onion/index.html	ONLINE
+Communications	Sonar	sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/	OFFLINE
+Communications	Protonmail	protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/	ONLINE
+Communications	RiseUp	vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/about-us/index.en.html	ONLINE
+Communications	cock.li	xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion/	ONLINE
+Communications	cs.email	csmail3thcskmzvjicww3qdkvrhb6pb5s7zjqtb3gdst6guby2stsiqd.onion/	ONLINE
+Communications	Cwtch	cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion/	ONLINE
+Communications	Darwin1210	mail.danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/	ONLINE
+Communications	Darknet Mail Exchange (DNMX)	dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/	OFFLINE
+Communications	Morke	6n5nbusxgyw46juqo3nt5v4zuivdbc7mzm74wlhg7arggetaui4yp4id.onion/	OFFLINE
+Communications	TorBox	torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/	ONLINE
+Crypto	Feather Wallet	featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion/	ONLINE
+Crypto	Monero	monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/	ONLINE
+Crypto	Blockchain Explorer	blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion/	ONLINE
+Crypto	Monero.fail	livk2fpdv4xjnjrbxfz2tw3ptogqacn2dwfzxbxr3srinryxrcewemid.onion/#	OFFLINE
+Crypto	Wasabi Wallet	wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion/	ONLINE
+Tools	OnionShare	lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion	ONLINE
+Tools	Qubes OS	qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion/	ONLINE
+Tools	Whonix	www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/	ONLINE
+Tools	Njal.la	njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/	ONLINE
+Tools	Mullvad	o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/en	ONLINE
+Tools	Cryptostorm	stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion/	ONLINE
+Tools	Keypass	keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/	ONLINE
+Tools	SimplyTranslate	xxtbwyb5z5bdvy2f6l2yquu5qilgkjeewno4qfknvb3lkg3nmoklitid.onion/	ONLINE
+Tools	The Pirate Bay	piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/	ONLINE
+Tools	TorPaste	torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/	OFFLINE
